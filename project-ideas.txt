@@ -1,2 +1,6 @@
 devops medical project
+<<<<<<< HEAD
 - Afaf: AI-powered deployment automation platform
+=======
+i wanna use terraform
+>>>>>>> 37caeb5 ( frist)
