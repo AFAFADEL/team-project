@@ -1,0 +1,5 @@
+Name: Afaf Adel
+Role: DevOps Engineer
+Skills: Linux, Docker, Git, CI/CD
+Hobby: Building AI projects
+Fun fact: I automate everything

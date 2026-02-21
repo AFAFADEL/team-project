@@ -1,2 +1,2 @@
 devops medical project
-- Ebrahim: Build a task management CLI tool
+- Afaf: AI-powered deployment automation platform
