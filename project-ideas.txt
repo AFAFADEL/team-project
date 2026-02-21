@@ -1,1 +1,2 @@
 devops medical project
+- Afaf: AI-powered deployment automation platform
