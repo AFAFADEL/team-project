@@ -1,0 +1,5 @@
+Name: Ebrahim Ashraf
+Role: Backend Developer
+Skills: Python, Bash, SQL
+Hobby: Reading
+Fun fact: I can solve logic puzzles fast
